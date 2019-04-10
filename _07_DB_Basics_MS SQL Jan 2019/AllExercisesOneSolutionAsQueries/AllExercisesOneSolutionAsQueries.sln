@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3D5CE93-5860-410B-9251-AF40109B9403}"
+	ProjectSection(SolutionItems) = preProject
+		01_SandBox.sql = 01_SandBox.sql
+		Ex01_DataDef_DataTypes.sql = Ex01_DataDef_DataTypes.sql
+		Ex02_BasicCRUD.sql = Ex02_BasicCRUD.sql
+		Ex03_Built-in Functions.sql = Ex03_Built-in Functions.sql
+		Ex04_Data Aggregation.sql = Ex04_Data Aggregation.sql
+		Ex05_Table Relations.sql = Ex05_Table Relations.sql
+		Ex06_Joins, Subqueries, CTE and Indices.sql = Ex06_Joins, Subqueries, CTE and Indices.sql
+		Ex10_Additional Exercises.sql = Ex10_Additional Exercises.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exam_19.Feb.2017", "Exam_19.Feb.2017", "{16696805-5D90-4D24-8E71-29794F036245}"
+	ProjectSection(SolutionItems) = preProject
+		..\Exams\Exam_ 19Feb2017_Bakery.sql = ..\Exams\Exam_ 19Feb2017_Bakery.sql
+		..\Exams\Exam_ 29Aug2018_Supermarket.sql = ..\Exams\Exam_ 29Aug2018_Supermarket.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ACF795F-8A05-4D18-9E11-EFA937D83CED}
+	EndGlobalSection
+EndGlobal

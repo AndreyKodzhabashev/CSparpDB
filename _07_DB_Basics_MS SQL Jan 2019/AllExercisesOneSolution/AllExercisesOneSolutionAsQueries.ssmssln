@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Exercises", "Exercises\Exercises.ssmssqlproj", "{C67FBAF2-4C7F-4796-BB6D-DA9ED2F48B78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{06FD0836-0552-4EC7-AB59-7274E8214AC9}"
+	ProjectSection(SolutionItems) = preProject
+		..\AllExercisesOneSolutionAsQueries\Ex03_Built-in Functions.sql = ..\AllExercisesOneSolutionAsQueries\Ex03_Built-in Functions.sql
+		..\AllExercisesOneSolutionAsQueries\Ex04_Data Aggregation.sql = ..\AllExercisesOneSolutionAsQueries\Ex04_Data Aggregation.sql
+		..\AllExercisesOneSolutionAsQueries\Ex05_Table Relations.sql = ..\AllExercisesOneSolutionAsQueries\Ex05_Table Relations.sql
+		..\AllExercisesOneSolutionAsQueries\Ex06_Joins, Subqueries, CTE and Indices.sql = ..\AllExercisesOneSolutionAsQueries\Ex06_Joins, Subqueries, CTE and Indices.sql
+		..\AllExercisesOneSolutionAsQueries\Ex07_Database Programmability and Transactions.sql = ..\AllExercisesOneSolutionAsQueries\Ex07_Database Programmability and Transactions.sql
+		..\AllExercisesOneSolutionAsQueries\Ex10_Additional Exercises.sql = ..\AllExercisesOneSolutionAsQueries\Ex10_Additional Exercises.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67FBAF2-4C7F-4796-BB6D-DA9ED2F48B78}.Default|Default.ActiveCfg = Default
+		{6EE3044A-84C0-4F1D-9CC8-90EC935A98C9}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
