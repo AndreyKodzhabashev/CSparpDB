@@ -1,0 +1,106 @@
+
+//"Invalid Data\r\nInvalid Data\r\nInvalid Data\r\nInvalid Data\r\nInvalid Data\r\nImported lsilbert with 3 cards\r\nImported aruthven with 1 cards"
+
+[
+  {
+    "FullName": "",
+    "Username": "invalid",
+    "Email": "invalid@invalid.com",
+    "Age": 20,
+    "Cards": [
+      {
+        "Number": "1111 1111 1111 1111",
+        "CVC": "111",
+        "Type": "Debit"
+      }
+    ]
+  },
+  {
+    "FullName": "Invalid Invalidman",
+    "Username": "",
+    "Email": "invalid@invalid.com",
+    "Age": 20,
+    "Cards": [
+      {
+        "Number": "1111 1111 1111 1111",
+        "CVC": "111",
+        "Type": "Debit"
+      }
+    ]
+  },
+  {
+    "FullName": "Invalid Invalidman",
+    "Username": "invalid",
+    "Email": "",
+    "Age": 20,
+    "Cards": [
+      {
+        "Number": "1111 1111 1111 1111",
+        "CVC": "111",
+        "Type": "Debit"
+      }
+    ]
+  },
+  {
+    "FullName": "Invalid Invalidman",
+    "Username": "invalid",
+    "Email": "invalid@invalid.com",
+    "Age": 2,
+    "Cards": [
+      {
+        "Number": "1111 1111 1111 1111",
+        "CVC": "111",
+        "Type": "Debit"
+      }
+    ]
+  },
+  {
+    "FullName": "Invalid Invalidman",
+    "Username": "invalid",
+    "Email": "invalid@invalid.com",
+    "Age": 104,
+    "Cards": [
+      {
+        "Number": "1111 1111 1111 1111",
+        "CVC": "111",
+        "Type": "Debit"
+      }
+    ]
+  },
+  {
+    "FullName": "Lorrie Silbert",
+    "Username": "lsilbert",
+    "Email": "lsilbert@yahoo.com",
+    "Age": 33,
+    "Cards": [
+      {
+        "Number": "1833 5024 0553 6211",
+        "CVC": "903",
+        "Type": "Debit"
+      },
+      {
+        "Number": "5625 0434 5999 6254",
+        "CVC": "570",
+        "Type": "Credit"
+      },
+      {
+        "Number": "4902 6975 5076 5316",
+        "CVC": "091",
+        "Type": "Debit"
+      }
+    ]
+  },
+  {
+    "FullName": "Anita Ruthven",
+    "Username": "aruthven",
+    "Email": "aruthven@gmail.com",
+    "Age": 75,
+    "Cards": [
+      {
+        "Number": "5208 8381 5687 8508",
+        "CVC": "624",
+        "Type": "Debit"
+      }
+    ]
+  }
+]
